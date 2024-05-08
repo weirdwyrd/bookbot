@@ -1,2 +1,2 @@
 # bookbot
-bookbot boot.dev
+guided project for boot.dev
